@@ -1,0 +1,107 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration-line: none;
+    color: white;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    margin: 0;
+    background: url(/img/background.jpg) repeat;
+}
+.header {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.title {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+.headTitle {
+}
+.hTtext {
+}
+.headSubtitle {
+}
+.hStext {
+}
+.games {
+}
+.gameList {
+    list-style: none;
+    padding-left: 150px;
+}
+.gameChild {
+    
+}
+.barotrauma {
+}
+.gameImage {
+    width: 450px;
+}
+.gameName {
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+.gameDescription {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.gameDownloads {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.home {
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+.homeLink {
+    width: 100%;
+    height: 100%;
+}
+
+.homeImage {
+    width: 100%;
+    height: 100%;
+}
+
+.game {
+}
+.images {
+    display: flex;
+}
+.image {
+    width: 585px;
+    margin-left: 25px;
+}
+.gameName {
+    margin-left: 25px;
+}
+.gameDescription {
+    margin-left: 25px;
+}
+.steamLink {
+    width: 250px;
+    margin-left: 25px;
+}
